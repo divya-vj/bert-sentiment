@@ -1,0 +1,11 @@
+BERT IMDB Sentiment Classification Report
+=============================================
+
+              precision    recall  f1-score   support
+
+    Negative       0.90      0.88      0.89     12500
+    Positive       0.89      0.90      0.89     12500
+
+    accuracy                           0.89     25000
+   macro avg       0.89      0.89      0.89     25000
+weighted avg       0.89      0.89      0.89     25000
